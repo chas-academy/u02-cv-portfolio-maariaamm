@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../hobbysida:rep/Hobbysida"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "U02"
+	}
+}
